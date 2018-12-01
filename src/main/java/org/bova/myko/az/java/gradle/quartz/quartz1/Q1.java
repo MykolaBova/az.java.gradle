@@ -9,6 +9,7 @@ import static org.quartz.JobBuilder.*;
 import static org.quartz.TriggerBuilder.*;
 import static org.quartz.SimpleScheduleBuilder.*;
 
+// http://www.quartz-scheduler.org/
 public class Q1 {
 
     public static void main(String[] args) throws SchedulerException {
